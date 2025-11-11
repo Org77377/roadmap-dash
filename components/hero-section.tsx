@@ -27,7 +27,7 @@ export function HeroSection() {
             <div className="flex flex-col items-center gap-3 mb-6">
               <div className="inline-flex items-center gap-2 glass rounded-full px-4 py-2 border border-white/10">
                 <Rocket className="w-4 h-4 text-purple-400" />
-                <span className="text-sm text-gray-300">6-Month Mastery Roadmap</span>
+                <span className="text-sm text-gray-300">6-Month Mastery Roadmap</span> <br/>
                 <span className="text-sm text-gray-300 cursor-pointer">Join Community Free Learnings</span>
               </div>
               <p className="text-xs sm:text-sm text-gray-500">
